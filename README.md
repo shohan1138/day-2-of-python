@@ -5,7 +5,8 @@ This repository contains Python scripts created on the second day of learning Py
 ## Files Description
 
 ### `39=12.py`
-A playful script likely exploring unexpected or humorous outputs in Python. (Please clarify its purpose if you'd like a more accurate description.)
+A simple program that adds the digits of a two-digit number.  
+**Example:** If the input is `35`, the output will be `3 + 5 = 8`.
 
 ### `BMI_Calculator.py`
 Calculates Body Mass Index (BMI) based on user input for height and weight. Demonstrates arithmetic operations and user input handling.
@@ -25,8 +26,7 @@ An extended example of using `len()`—possibly with more complex input or multi
 ### `pemdas.py`
 Explores the order of operations in Python using PEMDAS (Parentheses, Exponents, Multiplication/Division, Addition/Subtraction).
 
-### `39=12.PNG` & `how many days in weeks to live untill 90 years.PNG`
-Screenshots related to the scripts above, possibly showing outputs or explanations.
+
 
 ---
 
